@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Prueba_Vasconez_MopositaCrespo</string>
+    <string name="activity_text_view_nombre">Nombre : </string>
+    <string name="activity_text_view_apellido">Apellido : </string>
+    <string name="activity_button_Siguiente">Siguiente </string>
+    <string name="activity_text_view_base">Base :  </string>
+    <string name="activity_text_view_exponente">Exponente :  </string>
+    <string name="activity_text_view_factorial">Factorial :  </string>
+    <string name="activity_text_view_potencia">Potencia</string>
+    <string name="activity_button_MostrarResultado">Mostar Resultados </string>
+
+
+    <string name="activity2_text_view_Nombre">Nombre : </string>
+    <string name="activity2_text_view_base">Base:  </string>
+    <string name="activity2_button_Siguiente">Siguiente </string>
+    <string name="activity2_button_Cerrar">Cerrar</string>
+
+
+
+
+    <string name="activity3_text_view_Nombre">Nombre : </string>
+    <string name="activity3_text_view_Apellido">Apellido:  </string>
+    <string name="activity3_text_view_Base">Base : </string>
+    <string name="activity3_text_view_Exponete">Exponente :  </string>
+    <string name="activity3_text_view_Numero"> Numero :  </string>
+
+    <string name="activity3_button_Cerrar">Cerrar</string>
+
+</resources>
