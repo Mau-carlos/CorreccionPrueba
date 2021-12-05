@@ -43,6 +43,8 @@ public class SegundaActivity extends AppCompatActivity {
             //if(Estado == "1"){
                 btnCerrar.setEnabled(true);
                 btnSiguiente.setEnabled(false);
+                //control de botones
+
             //}
 
 
